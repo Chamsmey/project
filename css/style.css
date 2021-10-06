@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+ul {
+    display: flex;
+    background: gray;
+    padding: 10px;
+
+}
+li {
+    list-style: none;
+    padding: 10px;
+}
+li a {
+    text-decoration: none;
+    color: tomato;
+}
+.active {
+    width: 50px;
+    background: green;
+    padding: 10px;
+    border-radius: 6px;
+}
