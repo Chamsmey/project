@@ -22,3 +22,7 @@ li a {
     padding: 10px;
     border-radius: 6px;
 }
+
+section video{
+    width: 100%;
+}
